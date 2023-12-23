@@ -1,0 +1,1089 @@
+{
+    "slides": [
+      {
+        "topText" : "TAKING RIDES TO A NEWER LEVEL",
+        "slideTitle" : "the combination of <br/> power & perfection",
+        "slideImage" : "https://pro-theme.com/html/keymoto/assets/img/img-home-slideshow.jpg"
+      },
+      {
+        "topText" : "TAKING RIDES TO A NEWER LEVEL",
+        "slideTitle" : "putting a reliable <br/> machine on road",
+        "slideImage" : "https://pro-theme.com/html/keymoto/assets/img/img-home-slideshow-2.jpg"
+      },
+      {
+        "topText" : "TAKING RIDES TO A NEWER LEVEL",
+        "slideTitle" : "modern designed <br/> for a Sleek look",
+        "slideImage" : "https://pro-theme.com/html/keymoto/assets/img/img-home-slideshow-3.jpg"
+      }
+    ],
+  "products": [
+    {
+      "id": 1,
+      "title": "NINJA H2®R ABS",
+      "description": "998cc FOUR-CYLINDER SUPERCHARGED ENGINE LIGHTWEIGHT TRELLIS FRAME FULLY ADJUSTABLE HIGH-PERFORMANCE RACING SUSPENSION STATE-OF-THE-ART ELECTRONICS",
+      "price": "50000",
+      "cc": "998 cc",
+      "category": "Kawasaki",
+      "video": "https://www.youtube.com/embed/Gqx-rYEaIrQ?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=2",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/19ZX1000Y_201GY3DRS1CG_A.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_19ZX1000Y_201GY3DRF1CG_A.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_19ZX1000Y_201GY3DRS1CG_A.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_17ZX1000Y_US_GY3_Styling03_C.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Ninja_H2R_GY3_ACT__2_.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ninja ZX-10RR",
+      "description": "You can beat all opponents, but there is always a challenge you still have to face, the one within yourself. For those like you who rise to any challenge, we have developed the bike that a true champion deserves. The new Ninja ZX-10R & Ninja ZX-10RR have what it takes to win: all new aerodynamic body with integrated winglets, small & light LED headlights, TFT colo ur instrumentation, and Smartphone connectivity plus updates derived from Kawasaki Racing Team World Superbike expertise.Now that you have the definitive race focused Ninja, Face Yourself",
+      "cc": "998 cm³",
+      "price": "29000",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/21MY_Ninja%20ZX-10RR_GN2_STU.003.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_Ninja%20ZX-10RR_GN1_action%209.001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_NInja_ZX-10RR_GN1_static_on_track-KMUK.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_Ninja_ZX-10RR_GN2_DET__3_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_Ninja%20ZX-10RR_GN2_STU%20(1).001.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": " CBR1000RR-R Fireblade",
+      "description": "That's what our racers always want more of. So, we've gone through the 1,000cc, inline four-cylinder semi-cam engine from intake to exhaust. Compression ratio is up to 13.6:1 alongside revised ports, valve timing and springs. The crankshaft and titanium conrods are lighter, reducing spinning inertia. And every gear ratio is shorter, boosting acceleration with the throttle precision that 2 Motor TBW ensures. The numbers are impressive. 160kW / 215hp @14,000rpm and 113Nm @12,000rpm. But it's the way this engine now drives relentlessly – yet so smoothly, controllably – through the mid-range all the way to the redline, with such an increase in fighting power, that's so exhilarating.",
+      "cc": "CBR1000RR-R",
+      "price": "27000",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr1000rr-r_sp-30th_anniversary/cbr1000rr-r_sp-30th_anniversary_2022/nh-b53p_pearl_glare_white/cbr1000rr-r_sp-30th_anniversary_2022_nh-b53p_pearl_glare_white.png/jcr:content/renditions/m_w.webp",
+      "video": "https://www.youtube.com/embed/Pj4dfFeDC1U",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/Honda-cbr1000rr-r-fireblade30th-anniversary/Overview/Image-Carousel/Honda-CBR1000RR-R-Fireblade-8-16x9-Desktop.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/Honda-cbr1000rr-r-fireblade30th-anniversary/Overview/Image-Carousel/Honda-CBR1000RR-R-Fireblade-5-16x9-Desktop.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/Honda-cbr1000rr-r-fireblade30th-anniversary/Overview/Image-Carousel/Honda-CBR1000RR-R-Fireblade-10-16x9-Desktop.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/Honda-cbr1000rr-r-fireblade30th-anniversary/Overview/Image-Carousel/Honda-CBR1000RR-R-Fireblade-7-16x9-Desktop.jpg/_jcr_content/renditions/c2_r.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Fireblade SP Carbon Edition",
+      "description": "CBR1000RR-R Fireblade SP Carbon Edition The CBR1000RR-R Fireblade Carbon is the absolute ultimate in all-black stealth racing style, which is how it arrives from new. So, you can ride it away from your Honda dealer. Everywhere you look, front to back, you see sleek Carbon Fibre bodywork. Amazingly strong. Incredibly lightweight, saving a total weight of 1kg with some parts saving between 10-40% of the original weight. In addition, the Carbon Edition receives a unique aluminium plaque signifying the unique number allocated to your CBR1000RR-R Fireblade SP. All these features, designed to set the Fireblade apart.",
+      "cc": "CBR1000RR-R",
+      "price": "26500",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr1000rr-r/cbr1000rr-r_2022/r-380_grandprixred/cbr1000rr-r_2022_r-380_grandprixred.png/jcr:content/renditions/m_r_w.webp",
+      "video": "https://www.youtube.com/embed/iPKptrZ9BBw",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop2.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop3.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop4.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop6.jpg/jcr:content/renditions/fb_r_w.webp"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "R1M",
+      "description": "With over 500 Grand Prix wins, Yamaha is one of the most successful names in racing. And the R1M has been created using all of the experience gained in MotoGP and WorldSBK. It's the most advanced production Yamaha ever built. And it has the power to enable you to discover your true racetrack potential.",
+      "cc": "998 cc",
+      "price": "24460",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/M--dL82i_NU",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-Studio-004-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-Studio-006-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1SPL/2024-Yamaha-YZF1000R1SPL-EU-Icon_Performance-Studio-007-03.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "R1 WORLD GP 60TH ANNIVERSARY",
+      "description": "To mark the 60th anniversary of the company's first Grand Prix race, Yamaha has designed a special look for the R-Series line. Finished in one of the most famous and best-loved historic racing colour schemes, the R1 World GP 60th Anniversary is the ultimate tribute to Yamaha's historic race bikes.",
+      "cc": "998 cc",
+      "price": "19310",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2022/YZF1000R1SV1/2022-Yamaha-YZF1000R1SV1-EU-Anniversary_White-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/CiqVEGSxkJc",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2022/YZF1000R1SV1/2022-Yamaha-YZF1000R1SV1-EU-Anniversary_White-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2022/YZF1000R1SV1/2022-Yamaha-YZF1000R1SV1-EU-Anniversary_White-Studio-005-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2022/YZF1000R1SV1/2022-Yamaha-YZF1000R1SV1-EU-Anniversary_White-Static-005-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2022/YZF1000R1SV1/2022-Yamaha-YZF1000R1SV1-EU-Anniversary_White-Static-002-03.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "2024 Hayabusa 25th Anniversary Edition",
+      "description": "The Hayabusa's legendary 1340cc, four-cylinder, DOHC engine is fed by Ride-by-Wire electronic throttle bodies with dual fuel injectors feeding each cylinder, mixing with pressurized air from the Suzuki Ram Air Direct (SRAD) intakes in the nose of the aerodynamic fairing. The symmetrical twin silencer exhaust system is lighter with better flow and a stimulating exhaust note.",
+      "cc": "1340cc",
+      "price": "19599",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300rz_hayabusa-25th-anniversary-edition/model-gallery/bikestage_hayabusa_25thann_thmbnails_profileright_2400x1500.png?mh=500&mw=768&hash=5F7A37178D9FF39F5631A49C20012718",
+      "video": "https://www.youtube.com/embed/IZlouaD-b3g",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300rz_hayabusa-25th-anniversary-edition/model-gallery/bikestage_hayabusa_25thann_threequarterfront_thumbnails_2400x1600.png?mh=500&mw=768&hash=3D0031C1B3F90250ACE6BBB04B0EEBA1",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300rz_hayabusa-25th-anniversary-edition/model-gallery/bikestage_hayabusa_25thann_thumbnails_front_1100x1600.png?mh=500&mw=768&hash=C594D42A991550622150331548FB21A7",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300rz_hayabusa-25th-anniversary-edition/model-gallery/bikestage_hayabusa_25thann_thmbnails_top_2400x1500.png?mh=500&mw=768&hash=77D7FCA787DF403EACF2F2E3904065BA",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300rz_hayabusa-25th-anniversary-edition/model-gallery/bikestage_hayabusa_25thann_thumbnails_back_1100x1600.png?mh=500&mw=768&hash=A7F4C1887B821B61DA55B240C9D6CB62"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "2024 Hayabusa",
+      "description": "The Suzuki Hayabusa remains firmly in place as motorcycling's Ultimate Sportbike. The 2024 version of Suzuki's flagship sportbike continues to be propelled by a muscular, refined inline four-cylinder engine housed in a proven, yet modernized chassis with incomparable manners, managed by an unequaled suite of electronic rider aids within stunning aerodynamic bodywork that is distinctly Hayabusa.",
+      "cc": "1340cc",
+      "price": "19099",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300r_hayabusa/2023/color-gallery/gsx1300rrm3_gry_single_seat_cowl_right_2400x1500.png?mh=500&mw=768&hash=964CC6EEE0B44243AEF6C128D95CD30B",
+      "video": "https://www.youtube.com/embed/15Vo6Xiqx7I",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300r_hayabusa/2023/color-gallery/gsx1300rrm3_gry_single_seat_cowl_right_2400x1500.png?mh=500&mw=768&hash=964CC6EEE0B44243AEF6C128D95CD30B",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300r_hayabusa/2023/color-gallery/gsx1300rrm3_gry_single_seat_cowl_diagonal_2400x1600.png?mh=500&mw=768&hash=F30BA28BD0E83913F901AEB48F284B7D",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300r_hayabusa/2023/color-gallery/gsx1300rrm3_blk_single_seat_cowl_right_2400x1500.png?mh=500&mw=768&hash=06C71151349969FF4BB43FBFFC452A41",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx1300r_hayabusa/2023/color-gallery/gsx1300rrm3_blk_single_seat_cowl_diagonal_2400x1600.png?mh=500&mw=768&hash=0A84BD8B53FBD2896D011D115BAFAC0B"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Z1000 UNLEASH",
+      "description": "Genuinely made for the race track but also suitable for everyday road traffic. For all sports enthusiasts who are always looking for a new challenge. The RR provides sporty riding pleasure and 100% performance through consistent optimizations where it really matters. Find out about the technical data and extensive equipment here.",
+      "cc": "1043cc",
+      "price": "24980",
+      "category": "Kawasaki",
+      "thumbnails": "https://content2.kawasaki.com/ContentStorage/KMA/Products/12032/dd295583-03b4-4b79-b8cb-71b4c0ea60f8.png?w=675",
+      "video": "https://www.youtube.com/embed/h9zMuvxL4VE",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/18ZR1000H_40RGN1DRS1CG_A.png",
+        "https://content2.kawasaki.com/ContentStorage/KMA/Products/12117/f125a90b-ee3c-4a43-9487-8f8eec2a7103.jpg",
+        "https://content2.kawasaki.com/ContentStorage/KMA/Products/12117/1f0748b8-0b32-463b-b210-ae9c02484ec1.jpg",
+        "https://content2.kawasaki.com/ContentStorage/KMA/Products/12117/0de0caf6-2021-4b77-a907-7ca84e72d165.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Ninja ZX-10R",
+      "description": "You can beat all opponents, but there is always a challenge you still have to face, the one within yourself. For those like you who rise to any challenge, we have developed the bike that a true champion deserves. The Ninja ZX-10R has what it takes to win: aerodynamic body with integrated winglets, small & light LED headlights, TFT colo ur instrumentation, and Smartphone connectivity plus updates derived from Kawasaki Racing Team World Superbike expertise. Now that you have the definitive race focused Ninja, Face Yourself.",
+      "cc": "998 cm³",
+      "price": "17000",
+      "category": "Kawasaki",
+      "video" : "https://www.youtube.com/embed/_GKSozQWF4Q?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=2",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja%20ZX-10R_GN1_STU%20(1).002.png",
+      "thumbnailsBlack": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja%20ZX-10R_WT1_STU%20(1).001.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_ZX-10R_GN1_ACT__9_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja%20ZX-10R_GN1_ACT%20(10).001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_ZX-10R_GN1_ACT__11_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_ZX-10R_GN1_ACT__15_.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Ninja 650 40th Anniversary Edition",
+      "description": "Reinvigorated to further embody Ninja sport bike lineage, the Ninja 650 motorcycle comes packed with a sporty 649cc engine, KTRC traction control, next-level technology advancements and sharp styling updates. Unmistakable sport performance is met with an upright riding position for exciting daily commutes, while a supreme level of attitude reminds you of its legendary heritage.Available in January 2024. ",
+      "cc": "649cc",
+      "price": "9599",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Ninja_650_40th_Anniversary_Edition_RD1_STU__1_.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Ninja_650_40th_Anniversary_Edition_RD1_STYLING__1_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Ninja_650_40th_Anniversary_Edition_RD1_STU__1_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Ninja_650_40th_Anniversary_Edition_RD1_STU__2_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Ninja_650_40th_Anniversary_Edition_RD1_STU__3_.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Ninja 400",
+      "description": "Reinvigorated to further embody Ninja sport bike lineage, the Ninja 650 motorcycle comes packed with a sporty 649cc engine, KTRC traction control, next-level technology advancements and sharp styling updates. Unmistakable sport performance is met with an upright riding position for exciting daily commutes, while a supreme level of attitude reminds you of its legendary heritage.Available in January 2024. ",
+      "cc": "400cc",
+      "price": "7299",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_400_GN1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/mv2TBPPJAvI?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=8",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_400_GN1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_400_GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja%20400_GN1_ACT%20(5).001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja%20400_GN1_ACT%20(3).002.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "NinjaH2 SX SE",
+      "description": "The new Kawasaki Ninja H2 SX is Kawasaki's most advanced Sports Tourer ever; the ultimate integration of the highest standards of technology, performance and riding comfort. Newdedicated features like the ARAS system provide real world benefits including adaptive cruise control and blind spot detection. Integrated into the new6.5” colo ur TFT instrumentation is Kawasaki's SPIN Infotainment system. Experience the exhilaration of the unique balanced super charged engine for both long distance touring and daily riding. The best technology is that which becomes a natural extension of ourselves and sets us free. Ninja H2 SX. ENGINEERED TO BE FREE",
+      "cc": "998 cm³",
+      "price": "25700",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_H2_SX_SE_GN2_STU__2_.png",
+      "video": "https://www.youtube.com/embed/oAMUVzq4jkE?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=2",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja%20H2%20SX%20SE_GN2_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja%20H2%20SX%20SE_GN2_ACT%20(1).001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_H2_SX_SE_GN2_ACT__2_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_H2_SX_SE_GN2_ACT__13_.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Ninja 1000SX",
+      "description": "The Ninja 1000SX has character without compromise. Infused with the Ninja spirit craved by discerning solo sport bike riders, the Ninja 1000SX takes the concept further with SX sport touring versatility to share with a fellow traveller. From traction control to cruise control, the Ninja 1000SX has the tech for the ride.",
+      "cc": "1,043 cm³",
+      "price": "13500",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Ninja_1000_SX_GN1_STU__2__001.png",
+      "video": "https://www.youtube.com/embed/xhSu4F4j72g?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=13",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Ninja_1000_SX_GN1_ACT__2_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Ninja_1000_SX_GN1_ACT__13_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_1000_SX_GN1_STU__3_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Ninja_1000_SX_RD1_STU__1_.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Versys1000 SE",
+      "description": "Bike adventures are life's best adventures. Every day brings opportunity for fresh challenges.Beyond the roads you know lie whole new vistas. Unknown roads are easier and farawayplaces nearer with the Versys 1000 SE. When Adventure Calls, you and the Versys1000 SE have the answer. ANY ROAD. ANY TIME.",
+      "cc": "1,043 cm³",
+      "price": "16599",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Versys_1000_SE_GN2_STU__2_.png",
+      "video": "https://www.youtube.com/embed/FeqFvZjkExA?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=4",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Versys%201000%20SE_GN2_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Versys_1000_SE_RD1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Versys_1000_SE__GN2_ACT__1_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Versys_1000_SE__GN2_ACT__3_.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Versys 650",
+      "description": "The new Versys 650, created to conquer your city or leave it far behind. Designed to conquer the urban jungle, its ultimate potential comes to life in the Tourer+ version transporting you, your passenger and luggage to the next big adventure. New dedicated features like an adjustable windscreen, colour TFT Meter with Bluetooth connection, LED lighting and KTRC traction control ensure you enjoy every ride. Short office trip or weekend away, let the Versys 650 be your ultimate travel guide.",
+      "cc": "649 cm³",
+      "price": "11200",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Versys_650_BK1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/HLC2Ik68YSo?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=4",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Versys_650_BK1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Versys_650_GY2_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Versys_650_BK2_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Versys_650_BK1_ACT__10_.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Z H2SE",
+      "description": "The next level Super naked has arrived. The Z H2 SE is boosted by unique Kawasaki Supercharger technology featuring dedicated features delivering unmatched performance : Showa electronic suspension with Skyhook technology, Brembo brake calipers from the H2 series, plus se colour and graphics, combine to boost your emotions beyond limits. SUPERCHARGE !",
+      "cc": "998 cm³",
+      "price": "19799",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z_H2_SE_GY2_STU__3_.png",
+      "video": "https://www.youtube.com/embed/ZNJau23yzUM?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=4",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z%20H2%20SE_GY2_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Z%20H2%20SE_GY2_ACT%20(3).001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Z_H2_SE_GY2_ACT__4_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Z%20H2%20SE_GY2_ACT%20(13).001.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Z900 SE",
+      "description": "Created to amaze you. Welcome the Z family newcomer. The new Z900 SE is equipped with dedicated features that offer an focussed yet sophisticated riding experience: A large-diameter inverted fork with greater adjust ability complemented by Öhlins S46 rear suspension, Stainless steel brake lines, Brembo M4.32 calipers with Brembo front brake discs and a special colour scheme. Dominate the road with the latest expression of the Z spirit.Available from September 2024",
+      "cc": "948 cm³",
+      "price": "11229",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z900_SE_BK2_STU__2_.png",
+      "video": "https://www.youtube.com/embed/xFS1apfPsr0?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=2",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z900%20SE_BK2_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z900_SE_BK2_ACT__5_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z900_SE_BK2_ACT__1_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z900_SE_BK2_ACT__9_.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Z900",
+      "description": "The Z spirit finds its latest expression in the Sugomi styled Z900. Power to the max, instinctive handling and traction control redefine the supernaked experience. LED lights and a TFT display bring the newest tech. Push boundaries and dominate your ride.Available from October 2023",
+      "cc": "948 cm³",
+      "price": "9799",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z900_RD1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/R9LPMYB69cI?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=5",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z900_RD1_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z900_GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z900_BK1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z900_RD1_ACT__1_.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Z7 Hybrid",
+      "description": "With a unique power unit that combines a 451cm3 internal combustion engine and a compact traction motor, the world's first (*1) strong hybrid (*2) motorcycle offers riders a number of new riding experiences: a mid-size package with the instant acceleration of a 1,000cc-class supersport model from a standing start (with e-boost), fuel economy on par with the 250cc-class, and button-shift sport riding. Following on the heels of the Kawasaki’s game-changing Ninja 7 Hybrid, the Z7 Hybrid, with three different drive modes each offering a distinct riding character and numerous innovative features for riders to explore, is truly part of a new era in riding experience.Available May 2024.",
+      "cc": "451 cm³",
+      "price": "7999",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z_7_Hybrid_SE_SL1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/0Seo09OF9bQ?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=5",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z%207%20Hybrid%20SE_SL1_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z_7_Hybrid_SE_GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z_7_Hybrid_SE_GY1_ACT__1_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z_7_Hybrid_SE_GY1_ACT__7_.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Z125",
+      "description": "The iconic Z family has a new member, say hello to the Z125 from Kawasaki. Displaying Kawasaki's unique Sugomi design philosophy for all to see, the smallest in the Z family is here to be noticed and make a profound Naked bike statement. The exposed trellis type chassis blends with minimal and aggressive Z bodywork encouraging spirited riding from the A1 friendly 15PS (11kW) engine that is both new-rider friendly and as sporting as you would expect from Kawasaki. Z125-Ignite.Available from October 2023",
+      "cc": "125 cm³",
+      "price": "4299",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z125_GN1_STU%20(1).001.png",
+      "video": "https://www.youtube.com/embed/Wy6o10LfUEY?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=4",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z125_GN1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z125_GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z125_GN1_ACT_10.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z125_GN1_ACT_9.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Ze-1",
+      "description": "Finding pleasure in your daily commute. Kawasaki offers electrified excitement with its new pure EV motorcycles. Charge your day with Z e-1 / Ninja e-1.",
+      "cc": "9.0 kW {12 PS} / 2,600-4,000 rpm",
+      "price": "7699",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z_e-1_SL1_STU__2_.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z_e-1_SL1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z_e-1_SL1_ACT__2_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z_e-1_SL1_STU__4_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z_e-1_SL1_ACT__1_.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Z650",
+      "description": "Striking Sugomi styling, easy control and accessible power invoke the Kawasaki Z spirit. Full Led lights (new), KTRC Traction Control (new) and the color TFT display deliver the latest tech. The Z650 will energize your senses and inspire your every ride.",
+      "cc": "649 cm³",
+      "price": "9199",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z650_GY1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/OcZ5eKtVqt4?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=6",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z650_GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z650_SL1_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z650_BK1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Z650_GY1_ACT__2_.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Z400",
+      "description": "The Z400 is powered by a responsive, rider-friendly 399cc parallel twin engine complete with assist and slipper clutch. Created with Kawasaki's unique Sugomi design philosophy, the Z400 benefits from light, predictable handling plus low weight, the combination for a middle-weight naked machine.",
+      "cc": "399 cm³",
+      "price": "6799",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z400_GN1_STU__1_.png",
+      "video": "https://www.youtube.com/embed/AmnQlwJWPFg?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=3",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z400_GN1_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z400_WT1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z400_static_lifestyle_2.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z400_static_lifestyle_1.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Z500",
+      "description": "All eyes are on you when riding the all-new Z500 ABS supernaked. With distinctive bodywork and a powerful 451cc engine, this aggressively styled street fighter is for those who are not afraid to be seen.Available from March 2024.",
+      "cc": "451 cm³",
+      "price": "8999",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z500_BK1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/3s1vPFJDxZU?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=1",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z500_BK1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z500_BK1_STU__2_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z500_BK1_STU__1_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z500_BK1_STU__3_.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Z900RS SE",
+      "description": "Your lifestyle has no place for fake. If you seek a Modern Classic with the heritage to deliver yesterday's values, yet with technical features and suspension upgrades focused on today's roads, the Z900RS SE is the only answer. An Öhlins rear unit and retuned front suspension plus other detail touches match the visceral spirit of a 1970s legend, the iconic Z1. Looks, show and go, the Z900RS SE has it all.",
+      "cc": "948 cm³",
+      "price": "13149",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/22MY_Z900RS_SE_BK3_STU__2_.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/22MY_Z900RS%20SE_BK3_STU%20(1).001.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Z900RS_SE_BK3_STU__3_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Z900RS_SE_BK3_STA__9_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Z900RS_SE_BK3_ACT__1_.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Z900 RS",
+      "description": "There's no place for fake in the lifestyle you choose. Kawasaki alone has the heritage to deliver yesterday's values to today's riders in a truly authentic Modern Classic bike. The visceral spirit of a 1970s legend - Kawasaki's original king of cool Z1 - finds expression in the Z900RS, to satisfy the very essence of the rider you are now.",
+      "cc": "948 cm³",
+      "price": "18799",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/22MY_Z900RS_BU1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/uABL88z4JMA?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=3",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z900RS_RD1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/22MY_Z900RS_BU1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Z900RS_BU1_ACT%20(8).001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_22MY_Z900RS_BU1_ACT__3_.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Z650 RS",
+      "description": "The Kawasaki Z650RS combines Retro style with modern Sports technology. Distinctive styling notes like a classic round LED headlight, needle instrumentation, 70's influenced bodywork and colours, plus a twin-cylinder engine, create a stunning neo-retro segment reference point. The Kawasaki Z650RS is destined to impress all riders with its lovingly distilled spirit of RETROVOLUTION.",
+      "cc": "649 cm³",
+      "price": "11839",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z650RS__RD1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/umfaef59sAk?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=3",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z650RS__RD1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z650RS__BK1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Z650RS__SL1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Z650RS_%20RD1_ACT%20(4).001.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Eliminator500 SE",
+      "description": "When the streets are calling, answer with the all-new Eliminator 500 SE. This bike shakes up convention with a sleek and low design, a low and comfortable seat, and light and easy handling for the most approachable cruiser from Kawasaki yet. Don’t overthink it—timeless design has been combined with modern technology so you can Just Ride.",
+      "cc": "451 cm³",
+      "price": "8299",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Eliminator_SE_GY1_STU__2_.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/24MY_Eliminator_SE_GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_-_Eliminator_SE_-_GY1_-_STU6.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Eliminator_SE_GY1_ACT__3_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_24MY_Eliminator%20SE_GY1_ACT%20(7).001.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Vulcan S",
+      "description": "Vulcan S, not your average cruiser. Standing apart, with its Parallel Twin engine, unique frame and suspension layout and designed for independent minded riders, Vulcan S does not require the rider to conform to some “herd-mentality”, outdated fashion or lifestyle. Accessible in all senses of the word, the accommodating new Vulcan S encourages you to go Your Way!",
+      "cc": "649 cm³",
+      "price": "11899",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Vulcan_S__GY1_STU__2_.png",
+      "video": "https://www.youtube.com/embed/UpxXz5iz5B8?controls=0&rel=0&showinfo=0&enablejsapi=1&origin=https%3A%2F%2Fwww.kawasaki.co.uk&widgetid=4",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Vulcan_S__GY1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Vulcan_S__BK1_STU__1_.png",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Vulcan_S__GY1_ACT__4_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_23MY_Vulcan_S__GY1_ACT__12_.jpg"
+      ]
+    },
+    
+    {
+      "id": 31,
+      "title": "CBR500R 2022",
+      "description": "What HRC learns racing at the top feeds straight back. And the CBR500R is where it starts. Fireblade style, with aerodynamic fairing winglets. A strong twin-cylinder engine with ECU settings optimised for acceleration and chassis primed with Showa USD forks and twin radial-mount calipers. Add a new TFT screen with full connectivity - plus HSTC grip management - and you're riding something with racing DNA inside. And huge fun in the city, twisting back road or racetrack.",
+      "cc": "CBR500R",
+      "price": "14900",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr500r/cbr500r_2022/nh-436m_mat_gunpowder_black_metallic/cbr500r_2022_nh-436m_mat_gunpowder_black_metallic.png/jcr:content/renditions/m_r_w.webp",
+      "video": "https://www.youtube.com/embed/jWtJoVlX4QY",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr500r/cbr500r_2022/r-380_grand_prix_red/cbr500r_2022_r-380_grand_prix_red.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr500r-2024/overview/usp-gallery/honda-cb500r-usp-04-1728x972-desktop1.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr500r-2024/overview/usp-gallery/honda-cb500r-usp-04-1728x972-desktop2.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr500r-2024/overview/gallery2/honda-cb500r-gallery-10-1728x972-desktop4.jpg/jcr:content/renditions/fb_r_w.webp"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "CBR650R 2023",
+      "description": "Four-cylinder middleweight sports motorcycles are rare, beautiful things. The CBR650R is it. It's got a smooth rush of turbine-like inline power, from low- to high-rpm. The next-level performance advantage that shifting with E-Clutch delivers – if you want it. Aggressively redrawn styling, inspired by our CBR1000RR-R Fireblade. And premium technology, like new TFT screen and Honda RoadSync connectivity, that make this star shine even brighter.",
+      "cc": "CBR650R",
+      "price": "17900",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr650r/cbr650r_2023/nh-436m_mattegunpowderblackmetallic/23YM_CBR650R_MatGunpowderBlackMetallic_NH436_RFQ.png/jcr:content/renditions/m_r_w.webp",
+      "video": "https://www.youtube.com/embed/4EqONcudL2o",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr650r/cbr650r_2023/r-380_grandprixred/23YM_CBR650R_GrandPrixRed_R380_RFQ.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr650r_2024/overview/gallery2/honda-cbr650r-gallery2-1728x972-desktop1.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr650r_2024/overview/gallery2/honda-cbr650r-gallery2-1728x972-desktop3.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr650r_2024/overview/gallery2/honda-cbr650r-gallery2-1728x972-desktop6.jpg/jcr:content/renditions/fb_r_w.webp"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "NT1100",
+      "description": "he versatile NT1100 features sleek aerodynamics, a large, 5-way adjustable screen and upper/lower deflectors providing superb wind protection. The seat, with an 820mm height, is comfortable for two and offers a flexible riding position. The NT1100 is loaded with a 20L fuel tank  giving 400km range (WMTC mode) - panniers, heated grips, phone connectivity, cruise control, rear carrier, and a centre stand making rear wheel maintenance easy. Three default riding modes, URBAN, RAIN and TOUR, cover most conditions and two USER options allow you to fully customise engine output.",
+      "cc": "NT-1100-CC",
+      "price": "14.000",
+      "category": "HONDA",
+      "thumbnails": "https://motorcycle-renderserver.honda.eu/image/nt1100_mt_2024/r-381c_candy_chromosphere_red/default/default/320x0x10/alpha/800x450",
+      "video": "https://www.youtube.com/embed/4TBCGXodpqQ",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/NT1100/Honda-NT1100-5-16x9.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/NT1100/Honda-NT1100-6-16x9.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/NT1100/Honda-NT1100-7-16x9.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/NT1100/Honda-NT1100-4-16x9.jpg/_jcr_content/renditions/c2_r.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "GOLD-WING TURBO-1800",
+      "description": "Just like the Gold Wing, the Gold Wing Tour is a motorcycle built to handle curves. Its aluminium twin-beam frame leads with double wishbone front suspension, while electronic damping control provides precise suspension reaction. And then there’s the engine. The 1,833cc, flat six-cylinder engine is a masterpiece, delivering 170Nm torque at just 4,500rpm, minimising fatigue on the wrist. The powerful torque along with Honda Selectable Torque Control, makes the Gold Wing Tour one of the world's most impressive, usable and enjoyable motorcycle powerplants. Put the two together and the Gold Wing Tour riding experience goes beyond next level.",
+      "cc": "1.833cc",
+      "price": "35249",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/touring/goldwing/gl1800_dct_2024/g-208m_mattearmouredgreenmetallic/24YM_GOLDWING_DCT_G-208M_MAT%20ARMORED%20GREEN%20METALLIC_RHS%20copy.png/jcr:content/renditions/c4.png",
+      "video": "https://www.youtube.com/embed/S2FMCPl-Uis",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/touring/goldwing/gl1800_tour_dct_2024/nh-c07m_beta_silver_metallic/2023%20GoldWing%20Tour%20AC%20DCT%20AIRBAG%20studio%20Silver%20Rh-Side.png/jcr:content/renditions/c4.png",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/gl1800-goldwing-tour-2022/Overview/Gallery/Honda_Gold-Wing_Tour_Air_Bag.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/gl1800-goldwing-tour-2022/Overview/Gallery/Honda_Gold-Wing_Tour_Large_storage_capacity.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/gl1800-goldwing-tour-2022/Overview/Gallery/Honda_Gold-Wing_Tour_Honda_Selectable_Torque_Control_(HSTC).jpg/_jcr_content/renditions/c2_r.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "CB750 HORNET",
+      "description": "Forget the expected. It's time for a new generation to shake things up. Start with a brand-new engine producing incredible, class-leading power. Dial in a lightweight chassis honed for sports, tightly wrapped in head-turning streetfighter style and the new CB750 Hornet takes flight. Nothing else comes close.",
+      "cc": "750cc",
+      "price": "15299",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/street/cb750_hornet/cb750_hornet_2023/nh-b53p_pearl_glare_white/23YM_CB750_Hornet_Pearl_Glare_White_NH_B53P_RHS.png/_jcr_content/renditions/c1_r.png",
+      "video": "https://www.youtube.com/embed/9YXR1c4fW1Q",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/hornet/overview2/Honda-hornet-overview-08-desktop-16x9.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/touring/gl1800-goldwing-tour-2022/Overview/Gallery/Honda_Gold-Wing_Tour_Air_Bag.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/hornet/overview2/Honda-hornet-overview-07-desktop-16x9.jpg/_jcr_content/renditions/c2_r.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/hornet/overview2/Honda-hornet-overview-11-desktop-16x9.jpg/_jcr_content/renditions/c2_r.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "CB1000R HORNET",
+      "description": "Neo Sports Café has evolved. Starting with the CB1000R; completely restyled, from the sleek headlight, to the newly redesigned aluminium subframe, with an individual and aggressive character. And for an even more hand-crafted look, the CB1000R Black Edition is the epitome of style through its individual design.",
+      "cc": "750cc",
+      "price": "17299",
+      "category": "HONDA",
+      "thumbnails": "https://i0.wp.com/www.hondaprokevin.com/pictures/2021-cb1000r-1/2021-honda-cb1000r-review-specs-neo-sports-cafe-silver-cbr-sport-bike-naked-1000-cbr1000-cb1000-13.jpg?resize=848%2C565&ssl=1",
+      "video": "https://www.youtube.com/embed/EkqEOjYKdDM",
+      "images": [
+        "https://www.hondaprokevin.com/pictures/2021-cb1000r-1/2021-honda-cb1000r-review-specs-neo-sports-cafe-red-cbr-sport-bike-naked-1000-cbr1000-cb1000-16.jpg",
+        "https://www.hondaprokevin.com/pictures/2021-cb1000r-1/2021-honda-cb1000r-review-specs-neo-sports-cafe-red-cbr-sport-bike-naked-1000-cbr1000-cb1000-12.jpg",
+        "https://www.hondaprokevin.com/pictures/2021-cb1000r-1/2021-honda-cb1000r-review-specs-neo-sports-cafe-red-cbr-sport-bike-naked-1000-cbr1000-cb1000-15.jpg",
+        "https://www.hondaprokevin.com/pictures/2021-cb1000r-1/2021-honda-cb1000r-luggage-storage-bags-accessories-review-neo-sports-cafe-cbr-sport-bike-naked-1000-cbr1000-cb1000-1.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "CB650R Minimalist Perfection",
+      "description": "This is where you find pure four-cylinder magic. Stripped back for hugely enjoyable performance - from city block to twisting back road - the CB650R loads strong acceleration, lightweight agility and sharp new CB1000R-inspired Neo Sports Café style. Add premium tech, plus the choice of riding the first bike with Honda's incredible new E-Clutch system, and sometimes less really can be more.",
+      "cc": "650cc",
+      "price": "15799",
+      "category": "HONDA",
+      "thumbnails": "https://www.hondaprokevin.com/pictures/2019-cb650r-1/honda-cb650r-review-specs-motorcycle-cbr-naked-sport-bike-neo-sports-cafe-streetfighter-cb650-cb650f-29.jpg",
+      "video": "https://www.youtube.com/embed/z_7r8p6MW28",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/street/cb650r/cb650r_stnd_2024/r-381c_candy_chromosphere_red/24YM_CB650R_Studio_CANDY_CHROMOSPHERE_RED_MT_RHS.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/street/cb650r/cb650r_stnd_2024/nh-436m_matte_gunpowder_black_metallic/24YM_CB650R_Studio_MAT_GUNPOWDER_BLACK_METALLIC_MT_RHS.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/street/cb650r/cb650r_stnd_2024/nh-c53p_pearl_smokey_grey/24YM_CB650R_Studio_PEARL_SMOKY_GRAY_MT_RHS.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/cb650r_2024/overview/usp/honda-cb650r-usp-1728x972-desktop5.jpg/_jcr_content/renditions/c2_r.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "CMX1100. A",
+      "description": "Take your ride to the next level with the new CMX1100T Rebel, equipped with tour specification accessories. Beautifully finished rigid saddlebags are sleek and practical, with a total storage capacity of 35L (16L/19L capacity right and left) for all your riding essentials. The large mounted front fairing and windscreen offers even more protection from the elements and wind buffeting, providing comfort through the city or out on the open road. Experience freedom in style with the new CMX1100T Rebel, it's time to start your next journey.",
+      "cc": "1100cc",
+      "price": "29490",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/street/cmx1100-rebel_2022/Overview/Versatile/Honda-CMX-1100-rebel_the-street-pack.jpg/_jcr_content/renditions/c3.jpg",
+      "video": "https://www.youtube.com/embed/-b1EscdA8Ww",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/cmx1100-rebel_2022/Overview/Versatile/Honda-CMX-1100-rebel_the-street-pack.jpg/_jcr_content/renditions/c3.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/cmx1100-rebel_2022/Overview/Versatile/Honda-CMX-1100-rebel_the-tour-pack.jpg/_jcr_content/renditions/c3.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/cmx1100-rebel_2022/Overview/Mosaic/Honda-CMX-1100-rebel_stripped-back%20style_desktop.jpg/_jcr_content/renditions/c3.jpg",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/street/cmx1100-rebel_2022/Overview/Mosaic/Honda-CMX-1100-rebel_enjoyable%20ride.jpg/_jcr_content/renditions/c2.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "CRF1100L Africa Twin Adventure Sports ES",
+      "description": "The new Africa Twin Adventure Sports ES is something special. More mid-range torque for strong overtaking acceleration. A 19-inch front wheel, wearing a 110/80-19 tyre, lower seat height and Showa-EERA™ Electronic Suspension work together to deliver impeccable on-road handling. And, to make full use of the 24.8L fuel tank, a new fairing and screen provide wind protection for those long, enjoyable days in the saddle. Which is just what this bike is built for.",
+      "cc": "1100cc",
+      "price": "23599",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/crf1100l_atas/crf1100l_atas_dct_es_2024/nh-a86m_matte_ballistic_black_metallic/2024_CRF1100_ED_L4_DCT_Studio_MatBallisticBlackMe_NH-A86_STD_Rh-Side.png/jcr:content/renditions/m_r_w.webp",
+      "video": "https://www.youtube.com/embed/oPpnKniJvkY",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/crf1100l_atas/crf1100l_atas_dct_es_2024/nh-a86m_matte_ballistic_black_metallic/2024_CRF1100_ED_L4_DCT_Studio_MatBallisticBlackMe_NH-A86_STD_Rh-Side.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/crf1100l_atas/crf1100l_atas_dct_es_2024/nh-b53p_pearl_glare_white/2024_CRF1100_ED_L4_DCT_Studio_PearlGlareWhite_NH-B53P_STD_Rh-Side.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/adventure/africa-twin-adventure-sports-2024/overview/gallery-2/honda-africa-twin-adventure-sports-gallery2-1728x972-desktop1.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/adventure/africa-twin-adventure-sports-2024/overview/gallery-2/honda-africa-twin-adventure-sports-gallery2-1728x972-desktop5.jpg/jcr:content/renditions/fb_r_w.webp"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "NX500",
+      "description": "Where to? Your choice. The compact, versatile new NX500 offers perfect city agility and off-road ability. It's comfortable too, with an aggressive, rally-style fairing and large screen shaped for wind protection. High specification technology includes 5-inch TFT screen with Honda RoadSync smartphone connectivity. And its A2-compliant twin-cylinder engine delivers flexible - hugely enjoyable - performance with HSTC traction management. The adventure begins.",
+      "cc": "1100cc",
+      "price": "29799",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/nx500/nx500_2024/nh-436m_matte_gunpowder_black_metallic/24YM_NX500_Studio_MAT_GUNPOWDER_BLACK_METALLIC_RHS.png/jcr:content/renditions/m_r_w.webp",
+      "video": "https://www.youtube.com/embed/bS-HRtLUSOs",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/nx500/nx500_2024/nh-436m_matte_gunpowder_black_metallic/24YM_NX500_Studio_MAT_GUNPOWDER_BLACK_METALLIC_RHS.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/nx500/nx500_2024/nh-b61p_pearlhorizonwhite/24YM_NX500_Studio_PEARL_HORIZON_WHITE_RHS.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/adventure/nx500/nx500_2024/r-380_grand_prix_red/24YM_NX500_Studio_GRAND_PRIX_RED_RHS.png/jcr:content/renditions/m_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/adventure/nx500-2024/overview/gallery2/honda-nx500-gallery2-10-1728x972-desktop6.jpg/jcr:content/renditions/fb_r_w.webp"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "R7",
+      "description": "R-Series from Yamaha is evolving. While the flagships R1M, R1 and World Supersport Championship winning R6 RACE continue to dominate the top end of the category, the new R7 is specifically aimed at riders who want pure Supersport design with exciting real-world performance at an accessible price.",
+      "cc": "689cc",
+      "price": "23910",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF700R7/2024-Yamaha-YZF700R7-EU-Icon_Blue-Studio-002-03.jpg",
+      "video": "https://www.youtube.com/embed/M--dL82i_NU",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF700R7/2024-Yamaha-YZF700R7-EU-Icon_Blue-360-Degrees-001-03_Tablet.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF700R7/2024-Yamaha-YZF700R7-EU-Icon_Blue-Studio-004-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF700R7/2024-Yamaha-YZF700R7-EU-Midnight_Black-Studio-001-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF700R7/2024-Yamaha-YZF700R7-EU-Midnight_Black-Studio-007-03.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "R6 RACE",
+      "description": "You only need to look at this 600 Supersport's outstanding track record in WorldSSP and many other race series all over the world, to see that it's the fastest way to get on the podium. And to make it even easier for you and your team to prepare for the racing season, the R6 RACE is now supplied in race ready trim.",
+      "cc": "599cc",
+      "price": "19900",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-001-03.jpg",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-004-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Studio-008-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF600R6RCOMP/2024-Yamaha-YZF600R6RCOMP-EU-Tech_Black-Static-002-03.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "MT-10 SP",
+      "description": "When the first cross plane MT was launched a decade ago, it brought a whole new riding emotion to the street. Because every MT's clear focus is on torque, agility and feel. With its raw and uncompromising style, premium finish and the most incredible technology, the next evolution MT-10 SP takes the Hyper Naked riding experience to a completely new level.",
+      "cc": "998 cc",
+      "price": "18510",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/ntExcRGgheI",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-Studio-003-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-Static-001-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT10DX/2024-Yamaha-MT10DX-EU-Icon_Performance-Static-002-03.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "MT-09 SP",
+      "description": "A decade ago, Yamaha changed the game with the introduction of a radical new machine which kick-started the Hyper Naked revolution. The three cylinder MT-09 was a bike like no other, deviating from the norms of Japanese motorcycle design and instead seeking inspiration from the edgy and dynamic urban sub-culture from the streets of Japan.",
+      "cc": "890cc",
+      "price": "20800",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT09DX/2024-Yamaha-MT09DX-EU-Icon_Performance-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/0j0PWGzqpRk",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT09DX/2024-Yamaha-MT09DX-EU-Icon_Performance-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT09DX/2024-Yamaha-MT09DX-EU-Icon_Performance-Studio-003-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT09DX/2024-Yamaha-MT09DX-EU-Icon_Performance-Studio-004-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT09DX/2024-Yamaha-MT09DX-EU-Icon_Performance-Studio-005-03.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "MT-07",
+      "description": "Being the runaway market leader for consecutive years tells you a lot about the MT-07. It's been the best-selling Hyper Naked every year since its launch in 2014. But what you may not know is how the whole idea behind the MT concept came about",
+      "cc": "689 cc",
+      "price": "18510",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Midnight_Cyan-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/TxasIt_ME74",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Midnight_Cyan-Studio-005-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Midnight_Cyan-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Midnight_Cyan-Static-004-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/MT07A/2024-Yamaha-MT07A-EU-Midnight_Cyan-Static-001-03.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "XSR900",
+      "description": "The XSR900 is here for those who want to have the choice to either Rev or Relax. With its timeless design inspired by Yamaha's legendary racing bikes, combined with the sheer muscle power from the high-tech CP3 EU5 engine, this is a bike that has it all.",
+      "cc": "890cc",
+      "price": "22610",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/tVraB7bJVHw",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-Studio-004-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-Static-008-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS850/2024-Yamaha-XS850-EU-Legend_Red-Static-006-03.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "XSR700",
+      "description": "The XSR700 features its timeless design aspects like retro-influenced bodywork, a stepped seat and a classically styled head-and-tail light. Respecting the bikes of the past, whilst embracing the contemporary by making use of all the modern technology likes ABS, LED lights, the most efficient CP2 engine to date and a modern inverted LCD meter.",
+      "cc": "689cc",
+      "price": "17260",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700/2024-Yamaha-XS700-EU-Historic_White-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/aU0yeMNttRY",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700/2024-Yamaha-XS700-EU-Historic_White-Static-013-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700/2024-Yamaha-XS700-EU-Historic_White-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700/2024-Yamaha-XS700-EU-Historic_Blue-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XS700/2024-Yamaha-XS700-EU-Historic_Blue-Studio-007-03.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "NIKEN GT",
+      "description": "TAt Yamaha we like doing things differently. For nearly 70 years we've been developing cutting edge technology and pioneering radical new concepts in our quest to take motorcycling into new territory. NIKEN GT is the perfect example of this. So, if you want to go further it's time to discover the benefits of this unique riding experience.",
+      "cc": "890cc",
+      "price": "18210",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/LMWTRDX/2023-Yamaha-LMWTRDX-EU-Yamaha_Black-360-Degrees-001-03.jpg",
+      "video": "https://www.youtube.com/embed/Q0T8RrYR82E",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/LMWTRDX/2023-Yamaha-LMWTRDX-EU-Yamaha_Black-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/LMWTRDX/2023-Yamaha-LMWTRDX-EU-Yamaha_Black-Studio-003-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/LMWTRDX/2023-Yamaha-LMWTRDX-EU-Yamaha_Black-Static-015-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/LMWTRDX/2023-Yamaha-LMWTRDX-EU-Yamaha_Black-Action-017-03.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "TRACER 9 GT+",
+      "description": "Powered by Yamaha's famous 890cc CP3 engine, the TRACER 9 GT+ produces outstanding performance at all engine speeds. Its strong, linear torque along with the upgraded bi-directional quickshifter deliver stunning seamless acceleration - and the new integrated ride modes make it simple to set up for different conditions.",
+      "cc": "890cc",
+      "price": "21910",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRDX/2023-Yamaha-MT09TRDX-EU-Icon_Performance-Studio-001-03.jpg",
+      "video": "https://www.youtube.com/embed/6v4jN3V2j5M",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRDX/2023-Yamaha-MT09TRDX-EU-Icon_Performance-Studio-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRDX/2023-Yamaha-MT09TRDX-EU-Icon_Performance-Studio-005-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRDX/2023-Yamaha-MT09TRDX-EU-Icon_Performance-Studio-007-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/MT09TRDX/2023-Yamaha-MT09TRDX-EU-Power_Grey-360-Degrees-001-03_Tablet.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "TÉNÉRÉ 700 WORLD RALLY",
+      "description": "It all started in 1979 when Yamaha won the first ever Dakar Rally. This famous victory inspired Yamaha to create the original Ténéré for riders who wanted a bike that could take them anywhere. Now the Ténéré Spirit is as strong as ever with the new Ténéré 700 World Rally - the most exclusive adventure bike ever made by Yamaha.",
+      "cc": "689cc",
+      "price": "15000",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/XTZ700DSP/2023-Yamaha-XTZ700DSP-EU-Trophy_Blue-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/Xvt8ZmKaBvo",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/XTZ700DSP/2023-Yamaha-XTZ700DSP-EU-Trophy_Blue-Action-002-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/XTZ700DSP/2023-Yamaha-XTZ700DSP-EU-Trophy_Blue-Action-003-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/XTZ700DSP/2023-Yamaha-XTZ700DSP-EU-Trophy_Blue-Static-010-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2023/XTZ700DSP/2023-Yamaha-XTZ700DSP-EU-Trophy_Blue-Static-006-03.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "TÉNÉRÉ 700 EXTREME",
+      "description": "Push the limits with the Ténéré 700 Extreme, the tough new member of the Adventure range. Its long-travel fully adjustable KYB suspension takes you to another level of pure off-road performance. Equipped with titanium footrests, a high enduro front fender and ergonomic rally seat, this high specification 690cc 2-cylinder machine is built for any challenge.",
+      "cc": "689cc",
+      "price": "15900",
+      "category": "YAMAHA",
+      "thumbnails": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XTZ700X/2024-Yamaha-XTZ700X-EU-Icon_Blue-360-Degrees-001-03_Tablet.jpg",
+      "video": "https://www.youtube.com/embed/Nbcy8jGs6ic",
+      "images": [
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XTZ700X/2024-Yamaha-XTZ700X-EU-Icon_Blue-Static-009-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XTZ700X/2024-Yamaha-XTZ700X-EU-Icon_Blue-Static-006-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XTZ700X/2024-Yamaha-XTZ700X-EU-Icon_Blue-Static-001-03.jpg",
+        "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/XTZ700X/2024-Yamaha-XTZ700X-EU-Icon_Blue-Action-009-03.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "GSX-R1000R",
+      "description": "With its championship winning formula, the GSX-R1000R is ready to claim its crown as The King of Sport bikes.",
+      "cc": "999.8cc",
+      "price": "29499",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000r/2024/gallery/gsx-r1000rzam4_bqj_right_2400x1500.png?mh=500&mw=768&hash=937351B3CD4128886F8084468FE5F686",
+      "video": "https://www.youtube.com/embed/CJKgH5o6hfc",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000r/2024/gallery/gsx-r1000rzam4_bqj_diagonal_2400x1600.png?mh=500&mw=768&hash=DBC0030DEC046B69CA9681E865C87072",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000r/2024/gallery/gsx-r1000ram4_kgl_diagonal_2400x1600.png?mh=500&mw=768&hash=FFCED9241596693BC5FCE67E19FE1195",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000r/2024/gallery/gsx-r1000ram4_qt7_diagonal_2400x1600.png?mh=500&mw=768&hash=63883970E4C6D68D0C915DC3FDF86663",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000r/2024/promos/2024_sportbike_gsx-r1000r_pph_2500x1227_1.jpg?mw=1280&w=1280&hash=99FDBA6B80C042935C751EA75BBFCF73"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "GSX-R1000RZ",
+      "description": "Suzuki revolutionized the sport bike category with the introduction of the original GSX-R750 in 1985, and then created another milestone in 2001 with the introduction of the GSX-R1000. Using the lithe chassis of the GSX-R750 and a 988cc inline four-cylinder engine design that Suzuki is renowned for, liter-class Super bike performance became available to riders everywhere.",
+      "cc": "999.8cc",
+      "price": "33299",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000rz_100th-anniversary-edition/2023/promo/2023_gsx-r1000rzm3_ysf_studio_hero_2500x1227.jpg?mw=1280&w=1280&hash=E98240324FDB3CD73CC2661D04358B6A",
+      "video": "https://www.youtube.com/embed/wyUXWZwGC3I",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000rz_100th-anniversary-edition/2023/promo/2023_gsx-r1000rzm3_ysf_studio_hero_2500x1227.jpg?mw=1280&w=1280&hash=E98240324FDB3CD73CC2661D04358B6A",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000rz_100th-anniversary-edition/2023/gallery/gsx-r1000rzm3_ysf_right_2400x1500.png?mh=500&mw=768&hash=EC1AADCA8A0AF8F33ED9DA8FC56A552E",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000rz_100th-anniversary-edition/2023/gallery/gsx-r1000rzm3_ysf_diagonal_2400x1600.png?mh=500&mw=768&hash=30829D3CFB9FEA589FA6E92C8474AB56",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r1000rz_100th-anniversary-edition/2023/gallery/gsx-r1000rzm3_ysf_right_2400x1500.png?mh=500&mw=768&hash=EC1AADCA8A0AF8F33ED9DA8FC56A552E"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "GSX-8R",
+      "description": "The GSX-8R builds on the solid engineering advances of the GSX-8S. At the core is Suzuki's new-generation parallel-twin 776cc DOHC engine with the frame built around it to form a perfect package. Every aspect of the design is geared toward delivering a satisfying experience to riders who desire more power than a 650cc class sport bike can deliver, who aspire to ride a bike with the sharp styling of an elegant sport bike, and who desire a satisfying ride that is reassuring and reliable.",
+      "cc": "776cc",
+      "price": "25439",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/blue/gsx800frqm4_ysf_right_2400x1500.png?mh=500&mw=768&hash=8A8C33BE3F5545083456C3A8698D9D63",
+      "video": "https://www.youtube.com/embed/T00Pe0xoWEY",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/blue/gsx800frqm4_ysf_right_2400x1500.png?mh=500&mw=768&hash=8A8C33BE3F5545083456C3A8698D9D63",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/yellow/gsx800frqm4_qzy_right_2400x1500.png?mh=500&mw=768&hash=40AC89A31DD6EAC6BF021AF0C8D41861",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/silver/gsx800frqm4_qka_right_2400x1500.png?mh=500&mw=768&hash=2FC092D2A8E103F7C0DB56925389E771",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/blue/gsx800frqm4_ysf_top_2400x1500.png?mh=500&mw=768&hash=BDDF468C90FEE96F1A18496BB32CFC8A"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "GSX-R600",
+      "description": "Suzuki revolutionized the sport bike category with the introduction of the original GSX-R750 in 1985, and later expanded the GSX-R lineage with the addition of the GSX-R600. The 2024 GSX-R600 embodies Suzuki's tradition of blending race-winning capability with impeccable street manners.",
+      "cc": "599cc",
+      "price": "19.899",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r600/2024/2024_sportbike_gsx-r600_pph_2500x1227_1.jpg?mw=1280&w=1280&hash=747F71531758B0096FF3ED6E06420573",
+      "video": "https://www.youtube.com/embed/vSApuerc-H8",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r600/2024/gallery/gsx-r600m4_kgl_right_2400x1500.png?mh=500&mw=768&hash=9F364D79C4A7145825ADB672C8E62055",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r600/2024/gallery/gsx-r600zm4_bqj_right_2400x1500.png?mh=500&mw=768&hash=652ECFC529820DC8293E9AE8443AA466",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r600/2024/gallery/gsx-r600zm4_bqj_diagonal_2400x1600.png?mh=500&mw=768&hash=A5E2A873D62FEEFE12804BAC6822BEF9",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-r600/2024/gallery/gsx-r600m4_b5n_diagonal_2400x1600.png?mh=500&mw=768&hash=7019C226F4A4A799CC6CE28892B593D1"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "2024 GSX-8S",
+      "description": "Ready to make a statement? Swing a leg over the 2024 Suzuki GSX-8S and let your riding speak volumes. Engineered from the ground up as an innovative path for future Suzuki sport bikes, the GSX-8S is a naked street fighter with a robust engine, an agile chassis, a suite of rider aids, plus stunning looks with a smart price that is a statement to your brilliance.",
+      "cc": "776cc",
+      "price": "28999",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8s/2024/promos/2024_street_gsx-8s_pph_2500x1227.jpg?mw=1280&w=1280&hash=8C7AD0BC05EC0ABE33D4BBC3AE202198",
+      "video": "https://www.youtube.com/embed/lAScRZutVmA",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8s/2024/gallery/gsx800rqm4_qt7_diagonal_2400x1600.png?mh=500&mw=768&hash=04D9B4ADBE3D92FEBA2734FBB31A2507",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8s/2024/gallery/gsx800rqm4_ykv_diagonal_2400x1600.png?mh=500&mw=768&hash=A8CDB792B981318EA244E7FB40D13E77",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8s/model-gallery/gsx800rqm3_qu1_right_2400x1500.png?mh=500&mw=768&hash=174EC0DDF8D2A31409D8692B9CF9EBAF",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8s/key-features-gallery/gsx-8s_features_engine_1124x936.jpg?h=640&mw=768&w=768&hash=8183DA914CD6E5D036054975F87288E6"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "2024 GSX-S1000GT+",
+      "description": "The 2024 GSX-S1000GT+ intelligently combines the championship performance of its GSX-R1000-based engine with a nimble, lightweight chassis to provide riders with an exciting and comfortable GT riding experience. Here is a Grand Tourer with sportbike level functionality, avantgarde styling, truly functional integrated side cases, plus an extensive selection of optional accessories.",
+      "cc": "999cc",
+      "price": "34199",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gt_plus/2024/promos/2024streetgsxs1000gtpph2500x12271.jpg?mw=1280&w=1280&hash=907A89709154671FEF37F67305FFF822",
+      "video": "https://www.youtube.com/embed/x7alHO5vYsU",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gt_plus/2024/gallery/red/gsx-s1000gt_m4_yyg_right_2400x1500.png?mh=500&mw=768&hash=A834D840DD3BA736936484FF0C2F248C",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gt_plus/2024/gallery/red/gsx-s1000gt_m4_yyg_diagonal_2400x1600.png?mh=500&mw=768&hash=805D682392CF3705BDE9075C8C582688",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gt_plus/2024/gallery/black/gsx1000gtp_m4_yvb_right_sidecases_2400x1500.png?mh=500&mw=768&hash=BC811CDA340B048CA2708CD6A0FF695C",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gt_plus/2024/gallery/black/gsx1000gtp_m4_yvb_diagonal_sidecases_2400x1600.png?mh=500&mw=768&hash=9850A6C768BD001DAE9B9B7CBC04B7C6"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "2024 GSX-S1000",
+      "description": "The 2024 GSX-S1000 ABS brake remains the performance standard for naked sport bikes by providing superb controllability, agility, and power for an exciting and rewarding riding experience, while complying with worldwide emissions standards. The long-stroke GSX-R1000 engine and nimble chassis combine with sharp, angular styling establish the GSX-S1000 as a naked street fighter ready to turn heads and own the streets.",
+      "cc": "999cc",
+      "price": "37699",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000a/2024/promos/2024_street_gsx-s1000_pph_2500x1227_1.jpg?mw=1280&w=1280&hash=33D3C46631C39E7E55C52C8ECE9272BD",
+      "video": "https://www.youtube.com/embed/XCI0-yYbgy8",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000a/2024/gallery/gsx-s1000_m4_qka_right_2400x1500.png?mh=500&mw=768&hash=2D74E3D40F89373FE7BC2A55497318A9",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000a/2024/gallery/gsx-s1000_m4_qka_diagonal_2400x1600.png?mh=500&mw=768&hash=5E3002B53EBFA167DA00DA6A1ABC44B0",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000a/2024/gallery/gsx-s1000_m4_ysf_right_2400x1500.png?mh=500&mw=768&hash=73C6253D73EE00698DFF66D04756D91B",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000a/2024/gallery/gsx-s1000_m4_ysf_diagonal_2400x1600.png?mh=500&mw=768&hash=7949ED0411DFE12BD860AC26AC7F8B3F"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "GSX-S750Z",
+      "description": "The 2023 GSX-S750Z inherits its heart and soul from Suzuki's MotoGP race experience and the 35-year heritage of the GSX-R750. With strong, torque-rich engine power managed by rider-adjustable traction control, the GSX-S750Z is ready to capture hearts and turn heads as the performance leader in its class. This is the perfect sport bike response to the craving of today's discriminating riders, as the GSX-S750Z looks great and outperforms other entries in the class. It is nimble, comfortable, and an exhilarating, fun ride that retains Suzuki's heritage of quality, reliability, and value.",
+      "cc": "749cc",
+      "price": "27649",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750z/2023/gsx-s750z_m3_pph_header_2500x1227.jpg?mw=1280&w=1280&hash=23A7F1A1D6A9A0CA7064EA7C22824E6E",
+      "video": "https://www.youtube.com/embed/PAirfE-Vg8c",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750z/2023/gsx-s750z_m3_pph_header_2500x1227.jpg?mw=1280&w=1280&hash=23A7F1A1D6A9A0CA7064EA7C22824E6E",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750z/2023/gsx-s750z_m3_b55_right_2400x1500.png?mh=500&mw=768&hash=C43632DA0BE16CF1ACFAD46007FE90BC",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750z/2023/gsx-s750z_m3_b55_diagonal_2400x1600.png?mh=500&mw=768&hash=12564EDC56306BE8621EFBD98E16788D",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750z/2023/gsx-s750z_m3_pph_header_2500x1227.jpg?mw=1280&w=1280&hash=23A7F1A1D6A9A0CA7064EA7C22824E6E"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "GSX-S750Z-2024",
+      "description": "The 2023 GSX-S750Z ABS blends GSX-R750-derived engine performance with an ergonomically sound chassis to fashion a naked sport bike that gathers attention everywhere you ride it, thanks to its aggressive appearance. The GSX-S750Z ABS's Metallic Oort Gray and Glass Sparkle Black bodywork is complemented by a blacked-out engine and select chassis components. Sharp, angular logos and graphics on the bodywork accent the GSX-S750Z ABS's aggressive styling. Strong performance, and comfortable riding posture set the GSX-S750Z ABS apart from other middleweight sport bikes, and many of those competitors cost considerably more to purchase and own.",
+      "cc": "749cc",
+      "price": "29149",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750za/2023/gsx-s750za_m3_pph_header_2500x1227.jpg?mw=1280&w=1280&hash=4B6BAF8BE9AA9A2DAB76C86AA1181B0B",
+      "video": "https://www.youtube.com/embed/gOyGF3f0s3M",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750za/2023/gsx-s750za_m3_pph_header_2500x1227.jpg?mw=1280&w=1280&hash=4B6BAF8BE9AA9A2DAB76C86AA1181B0B",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750za/2023/gsx-s750za_m3_bd7_right_2400x1500.png?mh=500&mw=768&hash=55D0EC25DDD6FA266D52B5F5145EFA90",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750za/2023/gsx-s750za_m3_bd7_diagonal_2400x1600.png?mh=500&mw=768&hash=87D73F63894DB5715A10DA1B9F3FFAB2",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s750za/2023/gsx-s750za_m3_pph_header_2500x1227.jpg?mw=1280&w=1280&hash=4B6BAF8BE9AA9A2DAB76C86AA1181B0B"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "GSX-S1000GX+",
+      "description": "Though both the GX+ and GT+ belong to the GSX-S series, their differences are also significant. The GX+ features a longer suspension stroke that contributes to its extended front and rear wheel travel, increased ground clearance, and comfortable, upright riding position. Furthermore, GSX-S1000GX+ achieves a whole new level of suspension performance by introducing Suzuki Advanced Electronic Suspension (SAES) — Suzuki's first electronic suspension — and by adopting Suzuki's original new Suzuki Road Adaptive Stabilization (SRAS) system. These technologies combine to make the GX+ comfortable and confidence inspiring on road surfaces ranging from urban asphalt and cobblestones to paved country and winding mountain roads.",
+      "cc": "999cc",
+      "price": "37499",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gx-plus/2024/studio-gallery/gsx-s1000gx_m4_qu5_right_2400x1500.png?mh=500&mw=768&hash=CBEF446F1EF28A3C4938414D3CB74A26",
+      "video": "https://www.youtube.com/embed/QEd8VkJMajQ",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gx-plus/2024/studio-gallery/gsx-s1000gx_m4_qu5_right_2400x1500.png?mh=500&mw=768&hash=CBEF446F1EF28A3C4938414D3CB74A26",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gx-plus/2024/studio-gallery/gsx-s1000gx_m4_qu5_diagonal_2400x1600.png?mh=500&mw=768&hash=8010A3D9BF326ED11492047013A72A14",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gx-plus/2024/action-gallery/gx_actiongallery_3_2560x1400.jpg?mw=1280&w=1280&hash=83C5815806E9E57DFF8E26432C6FCC75",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-s1000gx-plus/2024/studio-gallery/gsx-s1000gx_m4_qu5_right_2400x1500.png?mh=500&mw=768&hash=CBEF446F1EF28A3C4938414D3CB74A26"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "2023 Suzuki Boulevard M109R B.O.S.S.",
+      "description": "The dark and muscular 2023 Suzuki M109R B.O.S.S. continues to be the performance cruiser other bikes wish they were. This M109R has a powerful V-twin engine with some of the largest pistons in the industry - a bike that will get your adrenaline flowing whenever you ride. This 109 cubic inch engine is wrapped with aggressive blacked-out styling that includes slash-cut mufflers, drag-style bars, a supplied solo seat cowl, and a distinctively shaped headlight nacelle that's uniquely Suzuki. The deep red and black or bright blue and black paint schemes are so visually stunning that the M109R draws attention away from everything else on the road. This bike is not just about looks, as stout inverted forks, a hidden single-shock rear suspension, and an ideally designed saddle deliver responsive handling and an exceptionally comfortable ride. Hold on as performance never looked so good, or so dark.",
+      "cc": "1783cc",
+      "price": "38599",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vzr1800bz_m109rboss/2021/gallery/vzr1800bzm1_kel_r_alt_web.png?mh=500&mw=768&hash=1C89194EBF9882FB6E0AD44AE4DC1A58",
+      "video": "https://www.youtube.com/embed/r4QtT0j4VVU",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vzr1800bz_m109rboss/2021/gallery/vzr1800bzm1_kel_r_alt_web.png?mh=500&mw=768&hash=1C89194EBF9882FB6E0AD44AE4DC1A58",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vzr1800bz_m109rboss/2021/gallery/vzr1800bzm1_kel_d_alt_web.png?mh=500&mw=768&hash=64A5382766231C5ABB41E75520A78DAF",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vzr1800bz_m109rboss/2021/gallery/vzr1800bzm1_av4_r_alt_web.png?mh=500&mw=768&hash=4720EF65D79E5283F230E440B461962D",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vzr1800bz_m109rboss/2021/gallery/vzr1800bzm1_av4_d_alt_web.png?mh=500&mw=768&hash=3E40828A2EAF5FCED7EEFEDA03001A4E"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Suzuki Boulevard C50T",
+      "description": "Ready for a highway run? With the Suzuki 2023 Boulevard C50T, you will find yourself equally in command on city streets or out on the interstate. Its fuel-injected, 50 cubic inch, V-twin engine delivers abundant torque and is engineered for comfort. Its bold styling stands out in a crowd, while a long list of features make it ideal for comfortable long-distance cruising. Tour-ready features include a spacious riding position, aerodynamic windshield, custom-made leather-look saddlebags with studs that match the studded dual seats that deliver all-day rider and passenger comfort.",
+      "cc": "805cc",
+      "price": "19359",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vl800t_c50t/2021/gallery/vl800tm1_yuh_r_nobackrest_web.png?mh=500&mw=768&hash=F26DD29C7E26C992C178C361994C48E7",
+      "video": "https://www.youtube.com/embed/m1n8t-eOdyk",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vl800t_c50t/2021/promos/vl800tm1_yuh_d_nobackrest_web.jpg?mw=1280&w=1280&hash=8F719FAA72F3A1EE54F6A667F9E1657A",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vl800t_c50t/2021/gallery/vl800tm1_yuh_r_nobackrest_web.png?mh=500&mw=768&hash=F26DD29C7E26C992C178C361994C48E7",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vl800t_c50t/2021/gallery/vl800tm1_yuh_r_nobackrest_web.png?mh=500&mw=768&hash=F26DD29C7E26C992C178C361994C48E7",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/vl800t_c50t/2021/promos/vl800tm1_yuh_d_nobackrest_web.jpg?mw=1280&w=1280&hash=8F719FAA72F3A1EE54F6A667F9E1657A"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "V-STROM 1050DE Adventure",
+      "description": "The V-STROM 1050DE Adventure's proven V-twin engine rides in a chassis with significant ground clearance to accommodate a 21-inch front and 17-inch rear spoke-style wheels with Dunlop Adventure tires. Compared to the base V-STROM 1050, the V-STROM 1050DE Adventure has a longer rake and wheelbase for better handling on gravel roads and dirt trails, a longer suspension stroke to better absorb bumps on rough surfaces, as well as wide steel foot pegs and a large diameter tapered-aluminum handlebar. ",
+      "cc": "1037cc",
+      "price": "26799",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050rja---v-strom-1050deadv/2024/gallery/dl1050rjm3_jwn_right_2400x1500.png?mh=500&mw=768&hash=0C25005CB2A37D83DAB7E1E0D42EADFB",
+      "video": "https://www.youtube.com/embed/QKn6_ppIuVY",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050rja---v-strom-1050deadv/2024/gallery/dl1050rjm3_jwn_right_2400x1500.png?mh=500&mw=768&hash=0C25005CB2A37D83DAB7E1E0D42EADFB",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050rja---v-strom-1050deadv/2024/promos/suz-2024_dl1050rjm3_jwn_diagonal_hero_stage_2500x1227.jpg?mw=1280&w=1280&hash=51A31F9EE6ADA091556E23DD0FA61B3D",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050rja---v-strom-1050deadv/2023/accessories/v-strom_accessories_1_gripheater_gallery_1up.jpg?mw=1280&w=1280&hash=9D8A1795782DF5A7660BDA8153F3C674",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050rja---v-strom-1050deadv/2023/accessories/v-strom_accessories_6_lrgfootrest_gallery_1up.jpg?mw=1280&w=1280&hash=B09A3697F0E27DA6D571D7ADBEF1495F"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "V-STROM 1050",
+      "description": "Led by its proven 1037cc V-twin engine the V-STROM 1050 features cast aluminum wheels shod with a 19-inch front and 17-inch rear tire, and a large touring windscreen with handy quick-release height adjustment. The Suzuki Intelligent Ride System (S.I.R.S.) includes a standard cruise control and bi-directional quick shift system. A full-color 5-inch TFT LCD multi-function instrument panel clearly displays the bike's operating status and S.I.R.S. settings.",
+      "cc": "1037cc",
+      "price": "30299",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050a_vstrom1050/2024/gallery/dl1050rrm4_cgh_right_2400x1500.png?mh=500&mw=768&hash=09A4BDD69E34D053E8DDEF4CFAEE813F",
+      "video": "https://www.youtube.com/embed/cZr1MEmIQN8",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050a_vstrom1050/2024/gallery/dl1050rrm4_cgh_right_2400x1500.png?mh=500&mw=768&hash=09A4BDD69E34D053E8DDEF4CFAEE813F",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050a_vstrom1050/2024/promos/suz-2024_dl1050rrm4_cgh_diagonal_hero_stage_2500x1227.jpg?mw=1280&w=1280&hash=DBE74B27935DE84C12223295595FFBBC",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050a_vstrom1050/2023/accessories/v-strom_accessories_1_gripheater_gallery_1up.jpg?mw=1280&w=1280&hash=2BB82CC93851278B06E4BF538DA7DBBC",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl1050a_vstrom1050/2024/gallery/dl1050rrm4_cgh_diagonal_2400x1600.png?mh=500&mw=768&hash=E440A7D6AE368C6FC4DE8FAA1CA5BE35"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "V-Strom 650XT Adventure",
+      "description": "Loaded and ready for any road, the V-Strom 650XT Adventure continues the V-Strom family tradition of being a fun and logical motorcycle to buy and ride. The engine delivers stellar performance and great fuel economy while achieving worldwide emission standards. Suzuki's engineering accomplishments also include low weight and a trim chassis, creating a V-Strom 650XT Adventure that is versatile, controllable, and financially accessible.",
+      "cc": "645cc",
+      "price": "22899",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650xaa_vstrom650xtadv/2024/gallery/dl650xam4_jwn_right_2400x1500.png?mh=500&mw=768&hash=20C4015F82F04242CC1B9F0F2FA1A692",
+      "video": "https://www.youtube.com/embed/0E06q-Fw7io",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650xaa_vstrom650xtadv/2024/gallery/dl650xam4_jwn_right_2400x1500.png?mh=500&mw=768&hash=20C4015F82F04242CC1B9F0F2FA1A692",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650xaa_vstrom650xtadv/2024/gallery/dl650xam4_jwn_diagonal_2400x1600.png?mh=500&mw=768&hash=26E35CAA2BD8A13004195A1FCF43BA62",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650xaa_vstrom650xtadv/2024/promos/suz-2024_dl650xam4_jwn_diagonal_hero_stage_2500x1227.jpg?mw=1280&w=1280&hash=C32386D6FCA2C16D5746A753903920D8",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dl650xaa_vstrom650xtadv/2024/gallery/dl650xam4_jwn_diagonal_2400x1600.png?mh=500&mw=768&hash=26E35CAA2BD8A13004195A1FCF43BA62"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "2024 DR-Z400SM",
+      "description": "Its 398cc, liquid-cooled, four-stroke engine provides strong low-rpm torque and crisp throttle response for any of these occasions. Key differences between the DR-Z400SM and the DR-Z400S are the inverted front fork, wide spoke-style wheels, and 300mm diameter floating front brake rotor. The inverted fork contributes to less unsprung weight and improved overall handling, while the large brake and wider rims with high-grip tires offer an exhilarating sport bike experience.",
+      "cc": "398cc",
+      "price": "7899",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dr-z400sm/2024/gallery/dr-z400smm4_019_right_2400x1500.png?mh=500&mw=768&hash=5BB43687201FEC7EC85C599B4B4A7E42",
+      "video": "https://www.youtube.com/embed/SDbCWFU3788",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dr-z400sm/2024/gallery/dr-z400smm4_019_right_2400x1500.png?mh=500&mw=768&hash=5BB43687201FEC7EC85C599B4B4A7E42",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dr-z400sm/2024/gallery/dr-z400smm4_019_diagonal_2400x1600.png?mh=500&mw=768&hash=2DF7B10BED4BD56CD92324B247376DF9",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dr-z400sm/2024/gallery/dr-z400smm4_blu_right_2400x1500.png?mh=500&mw=768&hash=1149D3021388B8E3529692ECD0608355",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/dr-z400sm/2024/gallery/dr-z400smm4_blu_diagonal_2400x1600.png?mh=500&mw=768&hash=03C051C37B901BC94A55FA3C4EFECFC8"
+      ]
+    }
+  ]
+}

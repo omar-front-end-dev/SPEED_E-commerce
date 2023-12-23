@@ -1,0 +1,51 @@
+{
+  "carts": [
+    {
+      "id": 54,
+      "title": "GSX-8R",
+      "description": "The GSX-8R builds on the solid engineering advances of the GSX-8S. At the core is Suzuki's new-generation parallel-twin 776cc DOHC engine with the frame built around it to form a perfect package. Every aspect of the design is geared toward delivering a satisfying experience to riders who desire more power than a 650cc class sport bike can deliver, who aspire to ride a bike with the sharp styling of an elegant sport bike, and who desire a satisfying ride that is reassuring and reliable.",
+      "cc": "776cc",
+      "price": "25439",
+      "category": "SUZUKI",
+      "thumbnails": "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/blue/gsx800frqm4_ysf_right_2400x1500.png?mh=500&mw=768&hash=8A8C33BE3F5545083456C3A8698D9D63",
+      "video": "https://www.youtube.com/embed/T00Pe0xoWEY",
+      "images": [
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/blue/gsx800frqm4_ysf_right_2400x1500.png?mh=500&mw=768&hash=8A8C33BE3F5545083456C3A8698D9D63",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/yellow/gsx800frqm4_qzy_right_2400x1500.png?mh=500&mw=768&hash=40AC89A31DD6EAC6BF021AF0C8D41861",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/silver/gsx800frqm4_qka_right_2400x1500.png?mh=500&mw=768&hash=2FC092D2A8E103F7C0DB56925389E771",
+        "https://suzukicycles.com/-/media/project/cycles/images/products/motorcycles/gsx-8r/studio-gallery/blue/gsx800frqm4_ysf_top_2400x1500.png?mh=500&mw=768&hash=BDDF468C90FEE96F1A18496BB32CFC8A"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ninja ZX-10RR",
+      "description": "You can beat all opponents, but there is always a challenge you still have to face, the one within yourself. For those like you who rise to any challenge, we have developed the bike that a true champion deserves. The new Ninja ZX-10R & Ninja ZX-10RR have what it takes to win: all new aerodynamic body with integrated winglets, small & light LED headlights, TFT colo ur instrumentation, and Smartphone connectivity plus updates derived from Kawasaki Racing Team World Superbike expertise.Now that you have the definitive race focused Ninja, Face Yourself",
+      "cc": "998 cm³",
+      "price": "29000",
+      "category": "Kawasaki",
+      "thumbnails": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/21MY_Ninja%20ZX-10RR_GN2_STU.003.png",
+      "images": [
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_Ninja%20ZX-10RR_GN1_action%209.001.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_NInja_ZX-10RR_GN1_static_on_track-KMUK.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_Ninja_ZX-10RR_GN2_DET__3_.jpg",
+        "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/th_21MY_Ninja%20ZX-10RR_GN2_STU%20(1).001.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Fireblade SP Carbon Edition",
+      "description": "CBR1000RR-R Fireblade SP Carbon Edition The CBR1000RR-R Fireblade Carbon is the absolute ultimate in all-black stealth racing style, which is how it arrives from new. So, you can ride it away from your Honda dealer. Everywhere you look, front to back, you see sleek Carbon Fibre bodywork. Amazingly strong. Incredibly lightweight, saving a total weight of 1kg with some parts saving between 10-40% of the original weight. In addition, the Carbon Edition receives a unique aluminium plaque signifying the unique number allocated to your CBR1000RR-R Fireblade SP. All these features, designed to set the Fireblade apart.",
+      "cc": "CBR1000RR-R",
+      "price": "26500",
+      "category": "HONDA",
+      "thumbnails": "https://www.honda.co.uk/content/dam/central/motorcycles/colour-picker/supersports/cbr1000rr-r/cbr1000rr-r_2022/r-380_grandprixred/cbr1000rr-r_2022_r-380_grandprixred.png/jcr:content/renditions/m_r_w.webp",
+      "video": "https://www.youtube.com/embed/iPKptrZ9BBw",
+      "images": [
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop2.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop3.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop4.jpg/jcr:content/renditions/fb_r_w.webp",
+        "https://www.honda.co.uk/content/dam/central/motorcycles/supersports/cbr1000rr-rr-fireblade-2024/overview/gallery2/honda-cbr1000rr-r-gallery2-1728x972-desktop6.jpg/jcr:content/renditions/fb_r_w.webp"
+      ]
+    }
+  ]
+}
